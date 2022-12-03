@@ -14,6 +14,7 @@ Software that predicts whether or not a shot will score before the ball lands, i
 5) Exit the predict window by pressing the 'q' key
 6) Use of threading to use one more function simultaneously
 7) Polynomial Regression for the pitch calculation
+8) Threading to execute more than one function at the same time in the graphical environment
 
 ## LIBS USED IN THE PROJECT
 Tkinter, Playsound, Threading, Own modules, Cvzone, Math, ColorFinder, Numpy and OpenCV.

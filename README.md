@@ -19,7 +19,7 @@ Software that predicts whether or not a shot will score before the ball lands, i
 ## LIBS USED IN THE PROJECT
 Tkinter, Playsound, Threading, Own modules, Cvzone, Math, ColorFinder, Numpy and OpenCV.
 
-## Captura de tela
+## SCREEN CAPTURE OF THE SOFTWARE
 ![image](https://user-images.githubusercontent.com/13918844/205420521-57f58b5a-4028-43ac-a9ba-72531a9f6a06.png)
 ![image](https://user-images.githubusercontent.com/13918844/205420538-10581823-563a-4e78-8633-13706417607f.png)
 

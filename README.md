@@ -9,7 +9,7 @@ Software that predicts whether or not a shot will score before the ball lands, i
 
 1) Graphical environment using Tkinter
 2) Throw options loading python modules
-3) music button
+3) Music button
 4) Exit button
 5) Exit the predict window by pressing the 'q' key
 6) Use of threading to use one more function simultaneously

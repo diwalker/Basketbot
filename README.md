@@ -1,22 +1,22 @@
-# BASKETBOT
-Projeto "O USO DA VISÃO COMPUTACIONAL PARA ANÁLISE PREDITIVA DE ACERTOS DE LANCE LIVRE NO BASQUETE Salgueiro 2022"
+# <span style="color: orange">BASKETBOT</span>
+Project "THE USE OF COMPUTATIONAL VISION FOR THE PREDICTIVE ANALYSIS OF FREE THROW HITTING IN BASKETBALL Salgueiro 2022"
 
-Atividade extensiva do curso de Analise e Desenvolvimento de Sistemas.
+Extensive activity of the Systems Analysis and Development course.
 
-Software que que prevê se um arremesso será cesta ou não antes da bola cair, em Python usando Visão COmputacional.
+Software that predicts whether or not a shot will score before the ball lands, in Python using Computer Vision.
 
-## FUNÇÕES ##
+## FUNCTIONS ##
 
-1) Ambiente gráfico usando Tkinter
-2) Opções do arremesso carregando módulos python
-3) Botão de música
-4) Botão de sair
-5) Sair da janela do predict, pressionando a tecla 'q'
-6) Uso de threading para usar mais uma função simultaneamente 
-7) Regressão Polinomial para o calculo do arremesso
+1) Graphical environment using Tkinter
+2) Throw options loading python modules
+3) music button
+4) Exit button
+5) Exit the predict window by pressing the 'q' key
+6) Use of threading to use one more function simultaneously
+7) Polynomial Regression for the pitch calculation
 
-## LIBS UTILIZADAS NO PROJETO
-Tkinter, Playsound, Threading, Módulos próprios, Cvzone, Math, ColorFinder, Numpy e OpenCV.
+## LIBS USED IN THE PROJECT
+Tkinter, Playsound, Threading, Own modules, Cvzone, Math, ColorFinder, Numpy and OpenCV.
 
 ## Captura de tela
 ![image](https://user-images.githubusercontent.com/13918844/205420521-57f58b5a-4028-43ac-a9ba-72531a9f6a06.png)

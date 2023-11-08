@@ -17,7 +17,7 @@ Software that predicts whether or not a shot will score before the ball lands, i
 8) Threading to execute more than one function at the same time in the graphical environment
 
 ## LIBS USED IN THE PROJECT
-Tkinter, Playsound, Threading, Own modules, Cvzone, Math, ColorFinder, Numpy and OpenCV.
+Tkinter, Playsound, Threading, Cvzone, Math, ColorFinder, Numpy and OpenCV.
 
 ## SCREEN CAPTURE OF THE SOFTWARE
 ![image](https://user-images.githubusercontent.com/13918844/205420521-57f58b5a-4028-43ac-a9ba-72531a9f6a06.png)
